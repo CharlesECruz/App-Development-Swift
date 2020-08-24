@@ -23,7 +23,7 @@ class RestaurantCollectionViewCell: UICollectionViewCell {
         nl.font = UIFont.systemFont(ofSize: 15, weight: .bold)
         nl.adjustsFontSizeToFitWidth = true
         nl.allowsDefaultTighteningForTruncation = true
-        nl.minimumScaleFactor = 0.75
+        nl.minimumScaleFactor = 0.5
         return nl
     }()
     

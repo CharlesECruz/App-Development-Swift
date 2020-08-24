@@ -67,7 +67,7 @@ extension RestaurantCollectionView : UICollectionViewDataSource {
         let restaurant = restaurants[indexPath.row]
         cell.imageView.image = restaurant.image
         cell.nameLabel.text = restaurant.name
-        cell.costLabel.text = Array(repeating: "$", count: restaurant.cost).reduce("", +)
+        cell.costLabel.text = "$" + String(restaurant.cost)
         cell.timeCategoriesLabel.text = restaurant.timeCategories.joined(separator: ", ")
         cell.foodCategoriesLabel.text = restaurant.foodCategories.joined(separator: ", ")
         return cell

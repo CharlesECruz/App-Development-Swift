@@ -18,7 +18,7 @@
 		84F78C3424EF4E9100B089D6 /* CollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F78C3324EF4E9100B089D6 /* CollectionViewController.swift */; };
 		84F78C3624EF4EF900B089D6 /* UIViewConstraintLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F78C3524EF4EF900B089D6 /* UIViewConstraintLayout.swift */; };
 		84F78C3E24EF50B400B089D6 /* FoodController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F78C3D24EF50B400B089D6 /* FoodController.swift */; };
-		84F78C4024EF50E300B089D6 /* FoodieViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F78C3F24EF50E300B089D6 /* FoodieViewController.swift */; };
+		84F78C4024EF50E300B089D6 /* FoodViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F78C3F24EF50E300B089D6 /* FoodViewController.swift */; };
 		84F78C4224EF51AB00B089D6 /* FilterBarCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F78C4124EF51AB00B089D6 /* FilterBarCollectionViewCell.swift */; };
 		84F78C4424EF51D800B089D6 /* RestaurantCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F78C4324EF51D800B089D6 /* RestaurantCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
@@ -37,7 +37,7 @@
 		84F78C3324EF4E9100B089D6 /* CollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewController.swift; sourceTree = "<group>"; };
 		84F78C3524EF4EF900B089D6 /* UIViewConstraintLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIViewConstraintLayout.swift; sourceTree = "<group>"; };
 		84F78C3D24EF50B400B089D6 /* FoodController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodController.swift; sourceTree = "<group>"; };
-		84F78C3F24EF50E300B089D6 /* FoodieViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodieViewController.swift; sourceTree = "<group>"; };
+		84F78C3F24EF50E300B089D6 /* FoodViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodViewController.swift; sourceTree = "<group>"; };
 		84F78C4124EF51AB00B089D6 /* FilterBarCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilterBarCollectionViewCell.swift; sourceTree = "<group>"; };
 		84F78C4324EF51D800B089D6 /* RestaurantCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -102,7 +102,7 @@
 				84F78C3324EF4E9100B089D6 /* CollectionViewController.swift */,
 				84F78C3124EF4D5800B089D6 /* FilterCollectionViewController.swift */,
 				84F78C3D24EF50B400B089D6 /* FoodController.swift */,
-				84F78C3F24EF50E300B089D6 /* FoodieViewController.swift */,
+				84F78C3F24EF50E300B089D6 /* FoodViewController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -190,7 +190,7 @@
 				84F78C3E24EF50B400B089D6 /* FoodController.swift in Sources */,
 				84F78C2A24EF4B8800B089D6 /* Restaurant.swift in Sources */,
 				84F78C4424EF51D800B089D6 /* RestaurantCollectionViewCell.swift in Sources */,
-				84F78C4024EF50E300B089D6 /* FoodieViewController.swift in Sources */,
+				84F78C4024EF50E300B089D6 /* FoodViewController.swift in Sources */,
 				849D6BA124EE238F00FEDF89 /* ViewController.swift in Sources */,
 				849D6B9D24EE238F00FEDF89 /* AppDelegate.swift in Sources */,
 				849D6B9F24EE238F00FEDF89 /* SceneDelegate.swift in Sources */,

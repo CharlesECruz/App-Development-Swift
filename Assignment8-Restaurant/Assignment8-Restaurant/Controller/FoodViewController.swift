@@ -35,7 +35,7 @@ class FoodieViewController: UIViewController {
         navigationItem.rightBarButtonItem = .init(image: UIImage.init(systemName: "rectangle.grid.2x2"),
                                                   style: UIBarButtonItem.Style.plain, target: self, action: #selector(layoutChange))
         
-        navigationItem.title = "Foodie"
+        navigationItem.title = "Assignment 8 Restaurant"
         navigationItem.largeTitleDisplayMode = .never
         
         setupFilterBarCollectionView()
